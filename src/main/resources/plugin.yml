@@ -1,0 +1,4 @@
+name: ZipMc
+version: '${project.version}'
+main: de.fuchscrafter.zipmc.ZipMc
+api-version: '1.17'
